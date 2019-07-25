@@ -1,0 +1,151 @@
+body {
+    background-color: paleturquoise;
+    color: black;
+    font-size: 1.5rem;
+    text-align: left;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 60px;
+}
+/* TEXT:  "Parallel and Perpendicular Lines " */
+p {
+    color: black;
+    font-size: 1.5rem;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: Shadows Into Light, cursive;
+    letter-spacing: 2px;
+    text-decoration-line: underline;
+}
+/* Ordered List of GOALS for the unit */
+ol {
+    color: blue;
+    font-size: 1.5rem;
+    letter-spacing: 3px;
+    text-align: left;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: Shadows Into Light, cursive;
+    letter-spacing: 3px;
+}
+/* In order for two lines....... */
+h1, h2 {
+    color: black;
+    font-size: 1.5rem;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: Shadows Into Light;
+    letter-spacing: 3px;
+}
+/* Text: Before we get too far..... */
+#p2 {
+    color: black;
+    text-shadow: 1px 1px 1px yellow;
+    font-size: 1.8rem;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: Shadows Into Light, cursive;
+    letter-spacing: 4px; 
+}
+/* Buttons for #4 Student Practice Problems */
+button {
+    color: orange;
+    text-shadow: 1px 1px 1px black;
+    font-size: 1rem;
+    padding: 15px;
+    margin-top: 35px;
+    margin-bottom: 5px;
+    margin-left: 15px;
+    margin-right: 15px;
+    text-align: center;
+    width: 20%;
+    height: auto;
+}
+#outputs {
+    color: black;
+    font-size: 1.8rem;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: Shadows Into Light, cursive;
+    letter-spacing: 4px; 
+    border: 1px black solid;
+    outline: 2px purple solid;
+}
+#parallel {
+    color: black;
+    width: 25%;
+    height: 10%;
+    font-size: 1.2rem;
+    text-align: center;
+    margin-left: 40px;
+    margin-right: 15px;
+    font-family: Shadows Into Light, cursive;
+    letter-spacing: 4px; 
+    border: 1px black solid;
+    outline: 2px purple solid;
+}
+#perpendicular {
+    color: black;
+    width: 32%;
+    height: 10%;
+    font-size: 1.2rem;
+    text-align: center;
+    margin-left: 15px;
+    margin-right: 15px;
+    font-family: Shadows Into Light, cursive;
+    letter-spacing: 4px; 
+    border: 1px black solid;
+    outline: 2px purple solid;
+}
+#neither {
+    color: black;
+    width: 20%;
+    height: 10%;
+    font-size: 1.2rem;
+    text-align: center;
+    margin-left: 15px;
+    margin-right: 15px;
+    font-family: Shadows Into Light, cursive;
+    letter-spacing: 4px; 
+    border: 1px black solid;
+    outline: 2px purple solid;  
+}
+#demo {
+    width: 60%;
+    height: 40px;
+    margin-left: 20%;
+    margin-right: 20%;
+    color: blue;
+    font-size: 1.5rem;
+    font-family: Indie Flower, cursive;
+    background-color: blue;
+    color: white;
+    border: 1px black solid;
+    outline: 1px white solid;
+    padding: 10px;
+    text-align: center;
+    vertical-align: middle;
+    text-decoration: none;
+}
+#p2 {
+    color: black;
+    font-size: 1.5rem;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: Shadows Into Light, cursive;
+    letter-spacing: 2px;
+    text-decoration: none;
+}
+footer {
+    font-size: 1.5rem;
+    font-family: Indie Flower, cursive;
+    color: black;
+    text-align: center;
+    margin-top: 25px;
+
+}
