@@ -39,6 +39,12 @@ h1, h2 {
     font-family: Shadows Into Light;
     letter-spacing: 3px;
 }
+/* Parallel lines pic */
+#pic1 {
+    width: 20%;
+    height: auto;
+    margin: 15px 40% 15px 40%;
+}
 /* Text: Before we get too far..... */
 #p2 {
     color: black;
@@ -141,11 +147,15 @@ button {
     letter-spacing: 2px;
     text-decoration: none;
 }
+iframe {
+    margin: 15px 33% 15px 33%;
+    border: 1px black solid;
+    outline: 1px white solid;
+}
 footer {
     font-size: 1.5rem;
     font-family: Indie Flower, cursive;
     color: black;
     text-align: center;
     margin-top: 25px;
-
 }
